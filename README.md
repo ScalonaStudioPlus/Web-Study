@@ -1,29 +1,4 @@
-# Welcome to your Lovable project
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+<img width="987" height="831" alt="image" src="https://github.com/user-attachments/assets/c36265a0-de06-45e1-a8f5-967de0b60068" />
+<img width="1477" height="795" alt="image" src="https://github.com/user-attachments/assets/e09e650e-de7e-4a63-93b2-0d8dc1b5a588" />
+<img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/89af0bae-ad28-4821-b505-2d03f4654961" />
+<img width="1270" height="837" alt="image" src="https://github.com/user-attachments/assets/df5e3a16-f4f3-43b9-a219-709fafc55a8c" />
